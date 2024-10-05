@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEZMan", "FEZMan\FEZMan.csproj", "{D2A126AE-A7CB-48BB-A662-B991BCE48EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyCLR.Game", "TinyCLR.Game\TinyCLR.Game.csproj", "{30247A9C-4759-4682-B47E-A6A81A4B6355}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9675627B-6D14-4B9E-AEA0-F2DA5D0D9B01}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2A126AE-A7CB-48BB-A662-B991BCE48EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A126AE-A7CB-48BB-A662-B991BCE48EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A126AE-A7CB-48BB-A662-B991BCE48EAA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D2A126AE-A7CB-48BB-A662-B991BCE48EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A126AE-A7CB-48BB-A662-B991BCE48EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A126AE-A7CB-48BB-A662-B991BCE48EAA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{30247A9C-4759-4682-B47E-A6A81A4B6355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30247A9C-4759-4682-B47E-A6A81A4B6355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30247A9C-4759-4682-B47E-A6A81A4B6355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30247A9C-4759-4682-B47E-A6A81A4B6355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E9170D4-4938-456C-A811-F8BD38A247A5}
+	EndGlobalSection
+EndGlobal
